@@ -2,6 +2,8 @@
 
 Multiply-blend shaded relief onto matplotlib / earthkit-plots map images.
 
+> **Limitation:** Currently only works with a single `ekp.Map` chart. Multiple maps on an earthkit-plots `Figure` are not supported yet.
+
 ## Install
 
 ```bash
